@@ -4,6 +4,9 @@ import pythonLogo from 'D:/myPortfolio/client/myapp/src/images/pythonLogo.png' ;
 import jsLogo from 'D:/myPortfolio/client/myapp/src/images/jsLogo.png' ;
 import nextLogo from 'D:/myPortfolio/client/myapp/src/images/nextLogo.png' ;
 import springbootLogo from 'D:/myPortfolio/client/myapp/src/images/springbootLogo.png' ;
+import djangoUpdated from 'D:/myPortfolio/client/myapp/src/images/djangoUpdated.png'
+import githubLogo from 'D:/myPortfolio/client/myapp/src/images/githubLogo.png' ;
+import mongoDB from 'D:/myPortfolio/client/myapp/src/images/mongoDB.png' ;
 import dockerLogo from 'D:/myPortfolio/client/myapp/src/images/dockerLogo.png' ;
 import { Element } from 'react-scroll';
 
@@ -47,7 +50,7 @@ const Skill = () => {
                             </li>
                             <br/>
                             <li>
-                              <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0uZbqPU-qYfCxFG8nh79HlaYqi_czZrVItg&usqp=CAU" className = "techImages"></img>
+                              <img src = {djangoUpdated} className = "techImages"></img>
                             </li>
                           </ul>
                           <br/>
@@ -79,11 +82,11 @@ const Skill = () => {
                       <p className="card2CardPara">     
                           <ul className = "frontendSet">
                           <li> 
-                            <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ496s2U24vJ6EKdYD6f1VAOnhpUv9AstkJBA&usqp=CAU" className = "techImages"></img>
+                            <img src = {mongoDB} className = "techImages"></img>
                             </li>
                             <br/>
                             <li>
-                            <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRA1QEXEy58uCo0VDQ8xUJuOWiJKnnUOag6Q&usqp=CAU" className = "techImages"></img>
+                            <img src = {githubLogo} className = "techImages"></img>
                             </li>
                             <br/>
                             <li>

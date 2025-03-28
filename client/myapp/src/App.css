@@ -347,7 +347,7 @@
    display: flex;
    list-style-type: none;
    gap:1vw ;
-   margin-top:1vw ;
+   /* margin-top:1vw ; */
 }
 
 .infoSubPara {
