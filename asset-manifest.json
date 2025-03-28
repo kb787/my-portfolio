@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.0d5ecb2b.css",
-    "main.js": "/my-portfolio/static/js/main.abb299c4.js",
+    "main.css": "/my-portfolio/static/css/main.5edaf33f.css",
+    "main.js": "/my-portfolio/static/js/main.a97306ba.js",
     "static/js/787.d3befce1.chunk.js": "/my-portfolio/static/js/787.d3befce1.chunk.js",
     "static/media/projectImage2.png": "/my-portfolio/static/media/projectImage2.b119e9e3f26e0b984e69.png",
     "static/media/projectImage4.png": "/my-portfolio/static/media/projectImage4.aec12acd75c790228346.png",
@@ -9,18 +9,21 @@
     "static/media/projectImage3.png": "/my-portfolio/static/media/projectImage3.de37740d047a9942ae2f.png",
     "static/media/javaLogo.png": "/my-portfolio/static/media/javaLogo.5ced7d824923f465aea9.png",
     "static/media/pythonLogo.png": "/my-portfolio/static/media/pythonLogo.df1c762f18f2c0161c25.png",
+    "static/media/mongoDB.png": "/my-portfolio/static/media/mongoDB.5f9e7545db91fc8daa27.png",
     "static/media/nextLogo.png": "/my-portfolio/static/media/nextLogo.d25412c337e7414ee86a.png",
+    "static/media/djangoUpdated.png": "/my-portfolio/static/media/djangoUpdated.87b4e478e02120844625.png",
     "static/media/nodejsLogo.png": "/my-portfolio/static/media/nodejsLogo.0604c3e5c7b780dd30f7.png",
     "static/media/jsLogo.png": "/my-portfolio/static/media/jsLogo.95ada310a2ea6b065622.png",
+    "static/media/githubLogo.png": "/my-portfolio/static/media/githubLogo.e43bd374682ade3d695a.png",
     "static/media/springbootLogo.png": "/my-portfolio/static/media/springbootLogo.0565c924f5b59815b9f7.png",
     "static/media/logo.svg": "/my-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/my-portfolio/index.html",
-    "main.0d5ecb2b.css.map": "/my-portfolio/static/css/main.0d5ecb2b.css.map",
-    "main.abb299c4.js.map": "/my-portfolio/static/js/main.abb299c4.js.map",
+    "main.5edaf33f.css.map": "/my-portfolio/static/css/main.5edaf33f.css.map",
+    "main.a97306ba.js.map": "/my-portfolio/static/js/main.a97306ba.js.map",
     "787.d3befce1.chunk.js.map": "/my-portfolio/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d5ecb2b.css",
-    "static/js/main.abb299c4.js"
+    "static/css/main.5edaf33f.css",
+    "static/js/main.a97306ba.js"
   ]
 }
